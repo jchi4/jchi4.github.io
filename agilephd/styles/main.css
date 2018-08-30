@@ -1,0 +1,27 @@
+.agilephd {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.pm_image {
+  max-width: 75%;
+
+}
+
+.scrum {
+  background-image:   url("https://wallpapercave.com/wp/412jzAx.jpg");
+  background-size:    cover;                      
+  background-repeat:  no-repeat;
+  background-position: center center;
+  background-color:   #D8D8D8;
+  color:              #A9A9A9;
+  min-height:         500px;
+/*  opacity:            .5;*/
+}
+
+.scrum_h1 {
+/*  background-color:   #D3D3D3;*/
+  color:              #FFF;
+  text-shadow:        -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+/*  opacity:            1;*/
+}
